@@ -8,6 +8,9 @@ You can find all the models in the `models` folder and the full report in the `P
 
 Note that all the models are made from scatrch using only mathematical library such as `numpy` or `scipy`.
 
+Unfortunately this was our first time programming in python, so the code could be badly written but it works well.
+
+Last code update: Jul 2022 (Project Delivery date)
 
 ## Dataset Information
 
